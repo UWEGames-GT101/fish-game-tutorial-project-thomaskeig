@@ -1,4 +1,4 @@
- # Assets used by example game.
+  # Assets used by example game.
 
 | Name                             | Author                    | Link                       |
 | -------------------------------- | ------------------------- | -------------------------- |
